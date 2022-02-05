@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a graduate student with hands-on experience in the development of machine learning models and pipelines deployed for robot systems.
+
 <!--
 **adaruna3/adaruna3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
