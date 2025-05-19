@@ -3,7 +3,7 @@
 title: Angel Andres Daruna
 
 # Name pronunciation (optional)
-name_pronunciation: Angel Daruna
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Angel
