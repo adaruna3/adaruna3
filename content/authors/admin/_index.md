@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Angel Andres Daruna
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Angel Daruna
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Angel
+last_name: Daruna
 
 # Status emoji
 status:
@@ -20,167 +20,145 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Advanced Computer Scientist II
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: SRI International
+    url: https://www.sri.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  # - icon: at-symbol
+  #   url: 'angel.@example.com'
+  #   label: E-mail Me
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/adaruna3
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://linkedin.com/in/angel-andres-daruna
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=DrIDiIUAAAAJ&hl=en&oi=ao
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-9620-036X
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Geospatial Intelligence
+  - Knowledge Graphs & Robotics
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Robotics
+    institution: Georgia Insitute of Technology
+    date_end: 2022
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Supervised by [Prof Sonia Chernova](https://rail.gatech.edu/).
+    #button:
+    #  text: 'Read Thesis'
+    #  url: 'https://example.com'
+  - area: MSc Computer Science
+    institution: Georgia Insitute of Technology
+    date_end: 2021
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      GPA: 3.76/4.0
+  - area: BSc Computer Engineering
+    institution: Georgia Institute of Technology
+    date_end: 2016
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.91/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #  Courses included:
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Advanced Computer Scientist II
+    company_name: SRI International
+    company_url: 'https://www.sri.com/'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2022
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      - Worked with multidisciplinary technical teams and managers to design, implement, evaluate, and transition novel machine learning algorithms given minimal guidelines and problem constraints
+      - Coauthored multiple conference articles, white papers, RFIs, and full technical proposals for government agencies including DARPA, NGA, and ARPA-E
+      - Served as technical lead for projects while mentoring junior scientists
+  - position: Graduate Research Assistant
+    company_name: Georgia Institute of Technology, RAIL Lab
+    company_url: 'https://rail.gatech.edu/'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2016
+    date_end: 2022
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Identified research problems, critically analyzed existing approaches, and developed scalable machine learning pipelines using Python, Pytorch
+      - Quantitatively evaluated machine learning architectures using multiple performance metrics to extract actionable, data-driven conclusions
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Python & Pytorch
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Docker & Kubernetes
+        description: ''
+        percent: 40
+        icon: code-bracket
+      - name: Experiment Design & Statistical Testing
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Machine Learning & Data Science
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: chart-bar
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Surfing & Snowboarding
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        icon: surfing
+      - name: Cooking
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: cooking
+      - name: Coffee
         description: ''
         percent: 80
-        icon: camera
+        icon: coffee
 
 languages:
   - name: English
     percent: 100
-  - name: Chinese
+  - name: Spanish
     percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+  - title: NSF GRFP
+    url: https://nsfgrfp.org/
+    date: 2016
+    awarder: NSF
+  - title: GEM Fellowship Program
+    url: https://www.gemfellowship.org/gem-fellowship-program/
+    date: 2016
+    awarder: GEM
+    #icon: edx
+    #summary:
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Angel Daruna is a computer scientist with the SUN lab of the SRI Center for Vision Technologies. His research interests include machine learning, geospatial intelligence, robotics, and knowledge graphs.
