@@ -54,7 +54,7 @@ interests:
 education:
   - area: PhD Robotics
     institution: Georgia Insitute of Technology
-    date_end: 2022
+    date_end: 2022-06-01
     summary: |
       Supervised by [Prof Sonia Chernova](https://rail.gatech.edu/).
     #button:
@@ -62,12 +62,12 @@ education:
     #  url: 'https://example.com'
   - area: MSc Computer Science
     institution: Georgia Insitute of Technology
-    date_end: 2021
+    date_end: 2021-08-01
     summary: |
       GPA: 3.76/4.0
   - area: BSc Computer Engineering
     institution: Georgia Institute of Technology
-    date_end: 2016
+    date_end: 2016-01-01
     summary: |
       GPA: 3.91/4.0
       
@@ -80,7 +80,7 @@ work:
     company_name: SRI International
     company_url: 'https://www.sri.com/'
     company_logo: ''
-    date_start: 2022
+    date_start: 2022-07-01
     date_end: ''
     summary: |2-
       Responsibilities include:
@@ -91,8 +91,8 @@ work:
     company_name: Georgia Institute of Technology, RAIL Lab
     company_url: 'https://rail.gatech.edu/'
     company_logo: ''
-    date_start: 2016
-    date_end: 2022
+    date_start: 2016-01-01
+    date_end: 2022-06-01
     summary: |
       Responsibilities include:
       - Identified research problems, critically analyzed existing approaches, and developed scalable machine learning pipelines using Python, Pytorch
