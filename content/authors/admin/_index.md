@@ -67,7 +67,7 @@ education:
       GPA: 3.76/4.0
   - area: BSc Computer Engineering
     institution: Georgia Institute of Technology
-    date_end: 2016-01-01
+    date_end: 2015-12-01
     summary: |
       GPA: 3.91/4.0
       
@@ -91,7 +91,7 @@ work:
     company_name: Georgia Institute of Technology, RAIL Lab
     company_url: 'https://rail.gatech.edu/'
     company_logo: ''
-    date_start: 2016-01-01
+    date_start: 2016-08-01
     date_end: 2022-06-01
     summary: |
       Responsibilities include:
@@ -123,11 +123,19 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Surfing & Snowboarding
+      - name: Snowboarding
+        description: ''
+        percent: 60
+        icon: surfing
+      - name: Surfing
         description: ''
         percent: 60
         icon: surfing
       - name: Cooking
+        description: ''
+        percent: 100
+        icon: cooking
+      - name: DIY
         description: ''
         percent: 100
         icon: cooking
@@ -149,11 +157,11 @@ languages:
 awards:
   - title: NSF GRFP
     url: https://nsfgrfp.org/
-    date: 2016
+    date: 2016-08-01
     awarder: NSF
   - title: GEM Fellowship Program
     url: https://www.gemfellowship.org/gem-fellowship-program/
-    date: 2016
+    date: 2016-08-01
     awarder: GEM
     #icon: edx
     #summary:
