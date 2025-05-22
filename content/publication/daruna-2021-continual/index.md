@@ -1,5 +1,5 @@
 ---
-title: Continual learning of knowledge graph embeddings
+title: Continual Learning of Knowledge Graph Embeddings
 authors:
 - Angel Daruna
 - Mehul Gupta
