@@ -1,5 +1,5 @@
 ---
-title: 🎉 Proposed and Participated in DARPA CriticalMAAS
+title: 🎉 Coauthored Proposal and Participated in DARPA CriticalMAAS
 summary: Served as technical lead to design machine learning software for mineral potential mapping exploiting multi-modal fusion
 date: 2024-02-01
 
